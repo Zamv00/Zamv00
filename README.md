@@ -3,6 +3,7 @@
 
 - ❓ I'm a 17 year old beginner CTF player with **@napwnli**
 - ⚔️ The categories I'm good at are: 🌐Web and 🎲Misc
+- 🛡️CyberChallenge.IT 2025 Finalist
 
 ![Zamv Github Stats](https://github-readme-stats.vercel.app/api?username=Zamv00&theme=dark)
 
