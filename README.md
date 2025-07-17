@@ -1,7 +1,7 @@
 
 # Hi, I'm Samuele Brandi (Zamv00) 👤
 
-- ❓ I'm a 17 year old beginner CTF player for **@Napwnli**
+- ❓ I'm a 17 year old beginner CTF player with **@napwnli**
 - ⚔️ My best categories are 🌐Web and 🎲Misc
 
 ![Zamv Github Stats](https://github-readme-stats.vercel.app/api?username=Zamv00&theme=dark)
