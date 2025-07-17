@@ -5,7 +5,9 @@
 - ⚔️ The categories I'm good at are: 🌐Web and 🎲Misc
 - 🛡️CyberChallenge.IT 2025 Finalist
 
-![Zamv Github Stats](https://github-readme-stats.vercel.app/api?username=Zamv00&theme=dark)
+## Github Stats📈
+![Contributions](https://nirzak-streak-stats.vercel.app/?user=Zamv00&theme=dark&hide_border=false)<br/>
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zamv00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Here are most of the technologies and programming languages i work with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
