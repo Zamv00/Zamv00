@@ -22,3 +22,4 @@
 ## Contact me:
 [![Discord Badge](https://img.shields.io/badge/discord-5563f0?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/579605010644467714)
 
+<img src="https://raw.githubusercontent.com/Zamv00/ocbadge/main/card.svg"/>
