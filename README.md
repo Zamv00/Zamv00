@@ -7,7 +7,7 @@
 
 ## Github Stats📈
 ![Contributions](https://nirzak-streak-stats.vercel.app/?user=Zamv00&theme=dark&hide_border=false)<br/>
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zamv00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zamv00&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 ## OliCyber Stats📊
 <img src="https://raw.githubusercontent.com/Zamv00/ocbadge/main/card.svg"/>
