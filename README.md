@@ -20,8 +20,8 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GIT](https://img.shields.io/badge/git-%2300599C.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Contact me:
+## Get in touch:
 [![Discord Badge](https://img.shields.io/badge/discord-5563f0?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/579605010644467714)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuele-brandi-3732a1395)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuele-brandi-3732a1395)
 
 
