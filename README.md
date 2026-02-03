@@ -22,6 +22,6 @@
 
 ## Contact me:
 [![Discord Badge](https://img.shields.io/badge/discord-5563f0?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/579605010644467714)
-
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuele-brandi-3732a1395)
 
 
